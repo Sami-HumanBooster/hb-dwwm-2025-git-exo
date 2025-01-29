@@ -13,10 +13,10 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Membres du groupe
 1. Sami
-2. 
+2.Vicente 
 3.
 
 ## Liens vers les animaux
-Vicente
+Vicente (https://github.com/Sami-HumanBooster/hb-dwwm-2025-git-exo/blob/parasaurolophus/animal.md)
 * ...
 * ...
