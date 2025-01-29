@@ -1,19 +1,21 @@
-##HTML
+## HTML
+
 ![HTML](html.png)
-> ```html
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Ma Page HTML</title>
-</head>
-<body>
 
-    <h1>Bonjour !</h1>
-    <p>Ceci est un paragraphe.</p>
-    <a href="https://www.google.com">Lien vers Google</a>
+ ```html
+    >    <!DOCTYPE html>
+         <html lang="fr">
+         <head>
+         <meta charset="UTF-8">
+         <title>Ma Page HTML</title>
+         </head>
+         <body>
 
-</body>
-</html>
+         <h1>Bonjour !</h1>
+         <p>Ceci est un paragraphe.</p>
+         <a href="https://www.google.com">Lien vers Google</a>
+
+         </body>
+         </html>
 ```
   
