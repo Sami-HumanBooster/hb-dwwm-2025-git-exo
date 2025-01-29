@@ -5,7 +5,7 @@
 =======
 ## HTML
 
->>>>>>> 78f46842027503321d0984cf4e36bb59f87c4251
+
 ![HTML](html.png)
 
  ```html
@@ -25,7 +25,7 @@
          </html>
 ```
   
->>>>>>> 38c0022b4c76b807c9560f5351fe788fdb33b9fc
+
 
 ##CSS
 ![LOGO CSS3](CSS3_logo_and_wordmark.svg)
