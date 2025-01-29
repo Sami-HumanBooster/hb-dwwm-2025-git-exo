@@ -12,7 +12,7 @@ En utilisant des fichiers markdown voici les choses à faire :
 3. Ensuite chaque membre viendra modifier ce fichier pour faire un lien vers le fichier animal sur sa branche dans la section adaptée
 
 ## Membres du groupe
-1. Sami
+1. Sami [Le Lion](https://github.com/Sami-HumanBooster/hb-dwwm-2025-git-exo/blob/Lion/animal.md)
 2. 
 3.
 
