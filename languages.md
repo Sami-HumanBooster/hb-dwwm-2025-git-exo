@@ -30,9 +30,16 @@
 ##CSS
 ![LOGO CSS3](CSS3_logo_and_wordmark.svg)
 
-> ```CSS
- .Magic{
+
+ ```CSS
+  > .Magic{
 	background-color:white;
 	display: flex;<<
+}
+
+.ClickBait{
+	font-style:mimic;
+	text-align:center;
+}
 
 ```
