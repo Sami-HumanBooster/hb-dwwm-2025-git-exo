@@ -15,11 +15,13 @@ et dedans rajouter un sous titre avec le nom du langage et à l'intérieur le lo
 5. Ensuite chaque personne va merge sa branche sur la main au fur et à mesure pour qu'à la fin tout le monde ait le fichier avec tous les langages dedans (ne pas push la branche)
 
 ## Membres du groupe
+1. Sami
+2.Vicente 
 1. Sami [Le Lion](https://github.com/Sami-HumanBooster/hb-dwwm-2025-git-exo/blob/Lion/animal.md)
 2. 
 3.
 
 ## Liens vers les animaux
-Vicente
+ Vicente (https://github.com/Sami-HumanBooster/hb-dwwm-2025-git-exo/blob/parasaurolophus/animal.md)
 * ...
 * ...
