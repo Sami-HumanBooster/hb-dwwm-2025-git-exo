@@ -14,9 +14,11 @@ En utilisant des fichiers markdown voici les choses à faire :
 ## Membres du groupe
 1. Sami
 2.Vicente 
+1. Sami [Le Lion](https://github.com/Sami-HumanBooster/hb-dwwm-2025-git-exo/blob/Lion/animal.md)
+2. 
 3.
 
 ## Liens vers les animaux
-Vicente (https://github.com/Sami-HumanBooster/hb-dwwm-2025-git-exo/blob/parasaurolophus/animal.md)
+ Vicente (https://github.com/Sami-HumanBooster/hb-dwwm-2025-git-exo/blob/parasaurolophus/animal.md)
 * ...
 * ...
