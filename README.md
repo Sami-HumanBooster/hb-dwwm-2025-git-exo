@@ -1,4 +1,4 @@
-# Exercice Git
+g# Exercice Git
 Exercice à faire par groupe de 3 ou 4 pour manipuler git et les branches ainsi que la syntaxe Markdown
 
 ## Instructions
