@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-##HTML
-=======
+# THE BEST TEAM
+
 ## HTML
 
 
